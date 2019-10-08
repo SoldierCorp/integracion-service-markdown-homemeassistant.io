@@ -1,0 +1,22 @@
+{
+  "name": "integracion-service-markdown-homemeassistant.io",
+  "version": "1.0.0",
+  "description": "Create markdown from yaml files for homeassistant.io",
+  "main": "app.js",
+  "license": "MIT",
+  "keywords": [],
+  "author": {
+    "name": "Edgardo Ramírez León",
+    "email": "me@edgardo.com",
+    "url": "https://edgardorl.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoldierCorp/integracion-service-markdown-homemeassistant.io"
+  },
+  
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15"
+  }
+}
